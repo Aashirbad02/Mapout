@@ -290,6 +290,3 @@ class App {
   }
 }
 const app = new App();
-
-const date = new Date();
-console.log(date);
